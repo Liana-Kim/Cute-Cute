@@ -1,0 +1,188 @@
+body {
+    font-family: sans-serif;
+    background-color: #fff8fc;
+}
+
+header{
+    background-color: #fce5f2;
+    display: flex;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    height: 75px;
+}
+
+header img {
+    position: relative;
+    margin-top: 10px;
+    left: 10px;
+    border-radius: 50px;
+}
+
+nav{
+    position: absolute;
+    height: 18px;
+    left: 153px;
+    top: 31px;
+    font-size: 20px;
+}
+
+.navigation{
+    margin: 0px 20px 0px 20px;
+    text-decoration: none;
+    color: black;
+}
+
+h1{
+  margin-left: 30%;
+  width: 180px;
+  height: 50px;
+  padding-left: 0px;
+  border: 5px dotted #e6afce;
+  background-color: #fff8fc;
+  border-radius: 10px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.photo{
+   text-align: center;
+   justify-content: space-between;
+}
+
+.photo1{
+   border: 30px solid #FCD1D4;
+   border-radius: 10px;
+    margin: 0px 10px 10px 10px;
+}
+
+.photo2{
+    margin: 0px 10px 10px 10px;
+   border: 30px solid #FCD1D4;
+   border-radius: 10px;
+}
+
+.photo3{
+    margin: 0px 10px 10px 10px;
+   border: 30px solid #FCD1D4;
+   border-radius: 10px;
+}
+
+.photo4{
+    margin: 0px 10px 10px 10px;
+   border: 30px solid #FCD1D4;
+   border-radius: 10px;
+}
+
+.rewiews1 {
+    background-color: #F8D8DC;
+    border: 5px solid #DF9AA4;
+    border-radius: 20px;
+    height: 120px;
+    width: 48%;
+    float: left;
+}
+
+.rewiews1 h3 {
+    position: relative;
+    left: 85px;
+    bottom: 50px;
+}
+
+.rewiews1 p {
+    position: relative;
+    left:  15px;
+    bottom: 40px;
+}
+
+.ava1{
+    height: 65px;
+    width: 65px;
+    position: relative;
+    top: 10px;
+    left: 10px;
+    border-radius: 50px;
+}
+
+.rewiews2 {
+    background-color: #F8D8DC;
+    border: 5px solid #DF9AA4;
+    border-radius: 20px;
+    height: 120px;
+    width: 48%;
+    float: right;
+}
+
+.rewiews2 h3 {
+     position: relative;
+    left: 85px;
+    bottom: 50px;
+}
+
+.rewiews2 p {
+    position: relative;
+    left:  15px;
+    bottom: 40px;
+}
+
+.ava2 {
+    height: 65px;
+    width: 65px;
+    position: relative;
+    top: 10px;
+    left: 10px;
+    border-radius: 50px;
+}
+
+.rewiews3 {
+    background-color: #F8D8DC;
+    border: 5px solid #DF9AA4;
+    border-radius: 20px;
+    height: 120px;
+    width: 48%;
+    position: relative;
+    top: 135px;
+    left: 25%;
+}
+
+.rewiews3 h3 {
+    position: relative;
+    left: 85px;
+    bottom: 175px;
+}
+
+.rewiews3 p {
+    position: relative;
+    left:  15px;
+    bottom: 165px;
+}
+
+.ava3 {
+    height: 65px;
+    width: 65px;
+    position: relative;
+    bottom: 115px;
+    left: 10px;
+    border-radius: 50px;
+}
+
+h2 {
+    margin-top: 160px;
+}
+
+footer img{
+width: 50px;
+height: 50px;
+position: relative;
+margin-top: 20px;
+left: 15px;
+}
+
+footer p {
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: 25px;
+float: right;
+margin-right: 50%;
+}
+
+footer{
+    background-color: #fce5f2;
+    height: 90px;
+}
